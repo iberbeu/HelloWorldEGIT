@@ -7,6 +7,6 @@ public class ByeWorldEGIT {
 	}
 	
 	private int internalBye(){
-		return 0;
+		return 1;
 	}
 }
